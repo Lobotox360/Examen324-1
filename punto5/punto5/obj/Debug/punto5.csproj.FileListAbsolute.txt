@@ -1,0 +1,15 @@
+c:\users\fabian\onedrive\documentos\visual studio 2012\Projects\punto5\punto5\bin\Debug\punto5.exe.config
+c:\users\fabian\onedrive\documentos\visual studio 2012\Projects\punto5\punto5\bin\Debug\punto5.exe
+c:\users\fabian\onedrive\documentos\visual studio 2012\Projects\punto5\punto5\bin\Debug\punto5.pdb
+c:\users\fabian\onedrive\documentos\visual studio 2012\Projects\punto5\punto5\obj\Debug\punto5.csprojResolveAssemblyReference.cache
+c:\users\fabian\onedrive\documentos\visual studio 2012\Projects\punto5\punto5\obj\Debug\punto5.Properties.Resources.resources
+c:\users\fabian\onedrive\documentos\visual studio 2012\Projects\punto5\punto5\obj\Debug\punto5.csproj.GenerateResource.Cache
+c:\users\fabian\onedrive\documentos\visual studio 2012\Projects\punto5\punto5\obj\Debug\punto5.exe
+c:\users\fabian\onedrive\documentos\visual studio 2012\Projects\punto5\punto5\obj\Debug\punto5.pdb
+C:\Users\Fabian\OneDrive\Documentos\Visual Studio 2012\Projects\punto5\punto5\obj\Debug\punto5.Login.resources
+C:\Users\Fabian\OneDrive\Documentos\Visual Studio 2012\Projects\punto5\punto5\obj\Debug\punto5.propietario.resources
+C:\Users\Fabian\OneDrive\Documentos\Visual Studio 2012\Projects\punto5\punto5\obj\Debug\punto5.administrador.resources
+C:\Users\Fabian\OneDrive\Documentos\Visual Studio 2012\Projects\punto5\punto5\obj\Debug\punto5.Agregar.resources
+C:\Users\Fabian\OneDrive\Documentos\Visual Studio 2012\Projects\punto5\punto5\obj\Debug\punto5.eliminar.resources
+C:\Users\Fabian\OneDrive\Documentos\Visual Studio 2012\Projects\punto5\punto5\obj\Debug\punto5.busca_propiedad.resources
+C:\Users\Fabian\OneDrive\Documentos\Visual Studio 2012\Projects\punto5\punto5\obj\Debug\punto5.busca_propietario.resources
